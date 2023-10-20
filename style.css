@@ -1,0 +1,22 @@
+.box1{
+    height: 400px;
+    width: 400px;
+    border: 2px solid black;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 50%;
+    background-image: linear-gradient(to right,red ,orange, yellow, blue,green, grey );
+}
+
+.container{
+    display: flex;
+    height: 1200px;
+    /* background-color: lightblue; */
+}
+
+.box3{
+    position: sticky;
+    top: 50px;
+
+   
+}
